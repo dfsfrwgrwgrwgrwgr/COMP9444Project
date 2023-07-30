@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>PennPed00093.png</filename>
+		<size>
+			<width>368</width>
+			<height>311</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>person</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>52</xmin>
+				<ymin>7</ymin>
+				<xmax>223</xmax>
+				<ymax>303</ymax>
+			</bndbox>
+		</object>
+	</annotation>

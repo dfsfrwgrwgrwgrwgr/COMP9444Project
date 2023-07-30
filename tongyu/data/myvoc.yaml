@@ -1,0 +1,7 @@
+train: VOCdevkit/images/train # 128 images
+val: VOCdevkit/images/val  # 128 images
+
+# number of classes
+nc : 1
+names : ['person']
+     

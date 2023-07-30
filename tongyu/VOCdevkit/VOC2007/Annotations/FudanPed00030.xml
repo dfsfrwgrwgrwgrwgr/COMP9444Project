@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>FudanPed00030.png</filename>
+		<size>
+			<width>462</width>
+			<height>387</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>person</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>60</xmin>
+				<ymin>86</ymin>
+				<xmax>209</xmax>
+				<ymax>376</ymax>
+			</bndbox>
+		</object>
+	</annotation>
